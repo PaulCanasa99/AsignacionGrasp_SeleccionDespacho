@@ -1,0 +1,13 @@
+{
+  "name": "Algoritmos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PaulCanasa99/AsignacionGrasp.git",
+  "author": "PaulCanasa99 <paul.canasa@pucp.edu.pe>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "xlsx": "^0.17.2"
+  }
+}
